@@ -15,6 +15,6 @@ A fun and interactive Tic Tac Toe game with two exciting modes:
 
 
 ## Demo  
-Check out the live demo of the game here: [Demo Link](#https://akhil-stopwatch.netlify.app/)  
+Check out the live demo of the game here: #https://akhil-stopwatch.netlify.app/
 
 ---
